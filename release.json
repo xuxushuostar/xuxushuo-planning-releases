@@ -1,0 +1,32 @@
+{
+  "version": "1.0.8",
+  "parts": [
+    {
+      "url": "https://raw.githubusercontent.com/xuxushuostar/xuxushuo-planning-releases/main/updates/1.0.8/xuxushuo-planning-1.0.8.part00",
+      "sha256": "f61f1372b7291426fa8f90a2460537b19d9c9dc056ccab6adf5f2c3cb4214730",
+      "size": 94371840
+    },
+    {
+      "url": "https://raw.githubusercontent.com/xuxushuostar/xuxushuo-planning-releases/main/updates/1.0.8/xuxushuo-planning-1.0.8.part01",
+      "sha256": "5d7f23954afbda33fa60872ec8989e373a66eca355d3d5951a98013179c5af2b",
+      "size": 94371840
+    },
+    {
+      "url": "https://raw.githubusercontent.com/xuxushuostar/xuxushuo-planning-releases/main/updates/1.0.8/xuxushuo-planning-1.0.8.part02",
+      "sha256": "2c2be23356306f0b36bf6509121b23825b49c321ac31c877044773d6328a7639",
+      "size": 94371840
+    },
+    {
+      "url": "https://raw.githubusercontent.com/xuxushuostar/xuxushuo-planning-releases/main/updates/1.0.8/xuxushuo-planning-1.0.8.part03",
+      "sha256": "7dae966e9eb2068c33dd480255386d68b34578abfd1f9776ebb2d9cc4ab141d0",
+      "size": 94371840
+    },
+    {
+      "url": "https://raw.githubusercontent.com/xuxushuostar/xuxushuo-planning-releases/main/updates/1.0.8/xuxushuo-planning-1.0.8.part04",
+      "sha256": "9cb202b99dd5572a90d060c38eb0492dda45b04a371c738e65b0855ae6bcf1cd",
+      "size": 87816117
+    }
+  ],
+  "sha256": "29d6e4d37f8b7e2ac08966f2ce02bedae0cf8102a8b2bbb117553e93d214f3d4",
+  "published_at": "2026-09-18T11:40:48.054Z"
+}
