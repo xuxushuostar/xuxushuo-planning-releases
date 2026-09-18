@@ -1,32 +1,122 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "parts": [
     {
-      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/493c5cf7eaf6d1c877a17af6931cd78d1b3007cf",
-      "sha256": "9750c81afedbcd8526039814409562851da6900d669dc3fa472567bf93e56bd7",
-      "size": 94371840
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/ee8c6b885cefb71982330055f318640bf9913993",
+      "sha256": "bf9af5819c13e46ec73268b072cc139f3b8629380abcab48c0faaeb78765efd8",
+      "size": 20971520
     },
     {
-      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/0dd4667ab9c8dc3c60c9d70e8f7e64cfd654c37e",
-      "sha256": "1966cd34bfce8898c472a74fc96215519c33c2866226a743416d5609e52ee59e",
-      "size": 94371840
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/bd400fbfe76d08d57a88ee99c3465528a4557677",
+      "sha256": "d6a25cd4b21187d8f432fe77fb10abfb74d5edd306c583064225ca636cc3bfc3",
+      "size": 20971520
     },
     {
-      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/3afb7cbc879ecb3d44922c51bf2fc9a6280c59e0",
-      "sha256": "07cf340d19284e439d25967eced9ec936e10ccb5a312835b381c222bb7822f14",
-      "size": 94371840
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/ea9a9f013fc1bf6f63467615f834b795362a39b0",
+      "sha256": "99ac0c8de4f9fb24cb56086078d0c000bcb9b4b031da4dbf9c2b3c47f4b267dd",
+      "size": 20971520
     },
     {
-      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/219232f6edda3089521adbcafcfbf6ae05acfc52",
-      "sha256": "4b6d8f9a46273a6fce08c2de30f80edd193fc9f66c2cc8034f230ba1b8ddf328",
-      "size": 94371840
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/4ffbf567f785936ab01eadcb7a2bb987b3f2fa96",
+      "sha256": "8b1a2606e39bae4fbbdfcdb2ef001b0c6b54eefd73609d860c3f7dd17fe7ece5",
+      "size": 20971520
     },
     {
-      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/1ad82b5f31322bf1a3312530d26a6e566ea0d4de",
-      "sha256": "06057517c69dba6b4afd0e0f6b9aef866797b983be1c774e6f1e6eb65cdeacfd",
-      "size": 87816290
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/7844019fcd104160ec61999435ceb01a82638ffe",
+      "sha256": "3a558545118be49a47ead379a2313044ce7debc4244ad8faeeadb3f0527e4164",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/b6efaf9920f791f26fffffaacaaf51527274a3c4",
+      "sha256": "3b1de327be5f01b7245fff60e13157c12d131b59e970b10968dcfbd63039b096",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/103ac0725b2e7ff281fac67a10d14a5cb6fe5155",
+      "sha256": "302b14ec204b694c4a0c78b62a906998f7c37fb7114f77e7fa4338aa7625744e",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/4769bf0bfb3448cc674bc232d69db13537347f66",
+      "sha256": "788127c453c0c34a4e524890814721bb9e7abc28ec7ededf1cdd90030fd17461",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/d72b74973b01944666a23072fe323a2ed3e0ff2e",
+      "sha256": "ed66354eb685503d0055ce973f77b426c93ff0b0ebb0e4816f18d1c399ef30bd",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/c3e70a6166469b8a66ac3b5611a1b0319d5af0d0",
+      "sha256": "0292b950e22f36e7daeb149aaae754bdd1d7041c02de460071f545db4b2121e4",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/2859fb70863f07de132c8de2e35de3edf7135888",
+      "sha256": "efea7c3deaa81fbc50eb3edff51d8461bc111bf16b95d3231fd14046d2230329",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/3ba051610881517f55e027d61d5ff1c6dbf95b82",
+      "sha256": "3b7aea00f2db7fc5ba977e77ba2e61281a5a398149450e84a66a853b9b4c3000",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/12033456799f9cd30c12fb34656ab788bfc0ad29",
+      "sha256": "17222d8ee5f9ec38541796508b0097c906bad20c3772a71868b9c3545abd218d",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/f072e622ede835ec7f1de51eb8b6507fcef68907",
+      "sha256": "8ba988f97b6736c3cc83dd4a45e19d24910bb7333753fac98723ff0d75a78a79",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/06b503e238b2b6afa170a373b556bbbdb5b38151",
+      "sha256": "1995bbf5f6d45f1f8246be8ecf5944e35f6db108ca0af3b59b44c2de63814d32",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/9a9a43b95e5830d3f2db4b37a482f6a4ca338ddc",
+      "sha256": "fa7a97f6779e75637e79968685d3d6a5408cb44d965f7f7af050a20d3d2f2cee",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/ace45be2b65cf63e96b541bce76d26f13a9d364e",
+      "sha256": "4578d66c4df996faead90eed33304562944ff89268939cbba0b89c2ff3e3d8e6",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/38bfbe8a12ded08703d16cf6af28058b5aa0a0b6",
+      "sha256": "c5283160a1b1607d6b8cc58357aa679f94ece6f46137e6a54b1ec2fb112272a6",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/b58ed30463783e3742febd412b6061d626257b7b",
+      "sha256": "dc295a720d78169e78615b935c355740060e9f7cf4dafb72bf81383dcd273ff5",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/b300afe283d298ce02d4cefe22900657ef54877e",
+      "sha256": "99824b1c954aefdc856f21cab9cb7f71e6f6bede0aef888f5184739e6cbe233d",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/7ff8131ad5ffefd1689db1f629f164a52c80a548",
+      "sha256": "4e50b84a9718780afe7903752eaba838067c916c91bb80f9c5678496c3806e01",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/9cfd6997668d3ad7ade6d94c96ec4723f9debe2a",
+      "sha256": "d7702109bb620eb002e4988b2083afe1c2d19f41921d1689f421629bf998781d",
+      "size": 20971520
+    },
+    {
+      "url": "https://api.github.com/repos/xuxushuostar/xuxushuo-planning-releases/git/blobs/2313f25c6b371d162e0327309d2b55a5995d38e9",
+      "sha256": "acfb35c7a0a0fac01eb6df57731d4aacbe643758ec17d2d4d11a8a350e2f5b47",
+      "size": 3930210
     }
   ],
-  "sha256": "742430550254824137194f38dd5934e0018fdd897b9e2e7455b5ecae27e42f00",
-  "published_at": "2026-09-18T11:53:07.013Z"
+  "sha256": "af9ca685f8a6f4f41c8b1697fe8ab769b1f353fb93aac7b757acc64e830619f1",
+  "published_at": "2026-09-18T12:04:44.462Z"
 }
